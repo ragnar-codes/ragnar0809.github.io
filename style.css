@@ -36,7 +36,6 @@ body{
 }
 .game-details-container{
     width: 80%;
-    height: 20rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -66,7 +65,7 @@ body{
 
 .game-options-container{
     width: 80%;
-    height: 4rem;
+    height: 25rem;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
