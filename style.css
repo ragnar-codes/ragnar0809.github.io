@@ -207,9 +207,9 @@ input[type=radio]:checked ~ .option {
 .modal-button-container button:hover{
     background-color: rgb(83, 82, 82);
 }
-/*
+
 @media(min-width : 300px) and (max-width : 350px){
-    .game-quiz-container{
+    .quiz-container{
         width: 90%;
         height: 100vh;
      }
@@ -270,8 +270,6 @@ input[type=radio]:checked ~ .option {
         font-size: 1.2rem;
     }
 }
-
-*/
 
 @keyframes fadeIn {
     from {opacity: 0;}
