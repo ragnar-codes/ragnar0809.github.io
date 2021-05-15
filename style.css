@@ -58,7 +58,7 @@ body{
 
 .game-question-container h1{
     font-size: 1.1rem;
-    color: white;
+    color: red;
     text-align: center;
     padding: 3px;
 }
