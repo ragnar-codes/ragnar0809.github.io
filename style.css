@@ -105,7 +105,6 @@ input[type="radio"] {
 input[type=radio]:checked ~ .option {
     background: rgb(152, 239, 245);
 }
-/*
 .next-button-container{
     width: 80%;
     height: 3rem;
@@ -113,7 +112,6 @@ input[type=radio]:checked ~ .option {
     justify-content: center;
    
 }
-*/
 .next-button{
     width: 50%;
     height: 45px;
