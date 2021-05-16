@@ -116,7 +116,7 @@ input[type=radio]:checked ~ .option {
 */
 .next-button{
     width: 50%;
-    height: 3rem;
+    height: 45px;
     border-radius: 10px;
     background: rgb(250, 246, 246, 0.9);
     color: rgb(133, 55, 4);
@@ -147,8 +147,8 @@ input[type=radio]:checked ~ .option {
 }
 
 .modal-content-container{
-    height: 20rem;
-    width: 25rem;
+    height: 320px;
+    width: 400px;
     background-color: black;
     display: flex;
     flex-direction: column;
@@ -158,15 +158,15 @@ input[type=radio]:checked ~ .option {
 }
 
 .modal-content-container h1{
-    font-size: 1.3rem;
-    height: 3rem;
+    font-size: 21px;
+    height: 48px;
     color: rgb(41, 87, 236);
     text-align: center;
 }
 
 .grade-details{
-    width: 15rem;
-    height: 10rem;
+    width: 240px;
+    height: 160px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -179,7 +179,7 @@ input[type=radio]:checked ~ .option {
 }
 
 .modal-button-container{
-    height: 2rem;
+    height: 32px;
     width: 100%;
     display: flex;
     align-items: center;
@@ -187,8 +187,8 @@ input[type=radio]:checked ~ .option {
 }
 
 .modal-button-container button{
-    width: 10rem;
-    height: 2rem;
+    width: 160px;
+    height: 32px;
     background: none;
     outline: none;
     border: 1px solid white;
