@@ -250,7 +250,7 @@ function handleEndGame() {
         remarkColor = "orange"
     }
     else if (playerScore >= 7) {
-        remark = "Excellent, You're a King"
+        remark = "Excellent, True Fan detected!"
         remarkColor = "green"
     }
     const playerGrade = (playerScore / 10) * 100
