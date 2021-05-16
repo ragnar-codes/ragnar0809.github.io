@@ -43,7 +43,7 @@ body{
 
 .game-question-container{
     width: 80%;
-    height: 125px;
+    height: 150px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -60,7 +60,7 @@ body{
 
 .game-options-container{
     width: 80%;
-    height: 500px;
+    height: 400px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
