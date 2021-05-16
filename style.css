@@ -62,7 +62,7 @@ body{
 
 .game-options-container{
     width: 80%;
-    height: 50vh;
+    height: 60vh;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
